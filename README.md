@@ -23,7 +23,7 @@ React와 Vite를 사용한 프로젝트 기본 세팅 파일입니다.
 1. 이 레포지토리를 클론합니다.
 2. 클론받은 폴더로 이동합니다.
 3. 현재 레포지토리의 remote를 제거합니다. (git remote remove origin)
-4. 사용할 프로젝트의 레포지토리와 연결합니다. (git remote add origin https://github.com/계정명/새 레포.git)
+4. 사용할 프로젝트의 레포지토리와 연결합니다. (git remote add origin https://github.com/계정명/새로운레포.git)
 5. 의존성을 설치합니다. (npm install)
 6. 개발 서버를 실행합니다. (npm run dev)
 
